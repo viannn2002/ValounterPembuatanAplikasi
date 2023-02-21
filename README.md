@@ -9,3 +9,5 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Alpian Khairi, [Rpubs](https://rpubs.com/Alvian2022).
+* Alpian Khairi, [Linkedin](https://www.linkedin.com/in/alpiankhairi/).
+
